@@ -1,0 +1,9 @@
+로그인하기 위해서는, 모든 권한을 가지는 슈퍼 사용자(superuser)를 생성해야 해요. 
+커맨드라인으로 돌아가서 python manage.py createsuperuser을 입력하고 엔터를 누르세요.
+
+(myvenv) ~/djangogirls$ python manage.py createsuperuser
+Username: admin
+Email address: admin@admin.com
+Password: 1234
+Password (again): 1234
+Superuser created successfully.
