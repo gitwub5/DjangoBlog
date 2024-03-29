@@ -7,3 +7,8 @@ Email address: admin@admin.com
 Password: 1234
 Password (again): 1234
 Superuser created successfully.
+
+
+Username
+1. sgw / qlalfqjsgh(비밀번호)
+2. aaa / qlalfqjsgh(비밀번호)
